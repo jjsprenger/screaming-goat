@@ -1,8 +1,3 @@
-<!doctype html>
-<html>
-<head>
-    <title>Spin-off of "CSS box model"</title>
-    <meta charset="utf-8">
     <style>
         .lovey-dovey {
             color: red;
